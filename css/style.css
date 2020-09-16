@@ -1,0 +1,45 @@
+
+
+body {
+    background-image: linear-gradient(#08081a, #061627 70%, #061b27);
+    overflow-x: hidden;
+}
+
+
+.navbar {
+    background: rgba(0, 0, 0, 0.2);
+}
+.navbar-brand img{
+    height: 3rem;
+}
+
+.video-background {
+    position: relative;
+    width: 100%;
+    min-height: 100vh;
+    background: rgba(0, 0, 0, 0.4);
+}
+
+#about {
+    padding: 7%;
+}
+#aboutImg{
+    height: 20rem;
+}
+.infobox{
+    color: #F0F8FF;
+    text-align: center;
+}
+#contactus{
+    background-color:#0a2542;
+    margin-bottom: 0;
+}
+
+#jpnFlag {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 10rem;
+    border-radius: 3%;
+}
+
